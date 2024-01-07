@@ -1,0 +1,22 @@
+html {
+    background-color: #c4c3cd;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  body {
+      margin: 3% 10%;
+      padding: 70px;
+      border: 5px solid black;
+      background-color: rgb(255, 255, 255);
+      font-family: monospace;
+      font-size: 1.2em;
+  }
+  
+  address {
+      color: gray;
+      text-align: right;
+  }

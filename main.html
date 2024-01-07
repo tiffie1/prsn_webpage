@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Latency Graphics </title>
+		<link href="../styles/styles.css" rel="stylesheet" />
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+	</head>
+
+	<body style="font-family: monospace; font-size: 150%;">
+
+		<h1> Latency graphical showcase </h1>
+		<p>
+		This webpage was made with the purpose of developing 
+		a graph showcasing the latency of NTRIP stations.<br>
+		The latency values given are static, and do not represent
+		the actual latency of the stations. <br>
+		</p>
+		<br>
+		<br>
+		<h2>Port Reading Test:</h2>
+		<p> It has been decided that port reading is too complicated for this project.
+			As such, it will be replaced with file reading instead. <br>
+		</p>
+
+
+		<br>
+		<br>
+		<h2> Flexbox / Char.js Oragnization:</h2>
+		<p> A visual test of organization via flexbox and Chart.js. A search bar
+			has yet to be included, and there will be a total of 30 graphs, one
+			for each avaible station, as shown by the PRSN NTRIP Caster. <br>
+			You may right click on the graph to open it as an image in a new tab. <br>
+		</p> <br>
+		<h4> Term Explanations: </h4>
+		<p> - Mount Point: The codename of the station. <br></p> 
+		<p>	- IP Address: The internet protocol code of the station.<br></p>
+		<p>	- Identifier: A short descriptor of the station's location.<br></p>
+		<p>	- Maximum Latency: The estimated maximum amount of latency a given station
+			  can potentially have.<br></p>
+		<p>	- Minimum Latency: Similar to maximum latency, with the difference of being
+			  for the estimated minimum.<br></p>
+		<p>	- Average Latency: The calculated average of the mean latency from a station.<br>
+		<p>	- Root Mean Square: The calculated estimate of fluctuation of a 
+			  station's latency. The higher the number, the more likely a station's latency is
+			  to fluctuate.<br></p><br>
+
+
+		<!-- This section is debug and meant to only be used for testing. -->
+		<p id="data0"></p>
+		<p id="data1"></p>
+		<p id="data2"></p>
+		<p id="data3"></p>
+		<p id="data4"></p>
+		<p id="data5"></p>
+		<p id="data6"></p>
+		<p id="data7"></p>
+		<p id="data8"></p>
+		<p id="data9"></p>
+		<p id="data10"></p>
+		<p id="data11"></p>
+		<p id="data12"></p>
+		<p id="data13"></p>
+		<p id="data14"></p>
+		<p id="data15"></p>
+
+		<div class="table">
+			<div id="row1" class="table-row"></div>
+			<div id="row2" class="table-row"></div>
+		</div>
+
+		<br>
+		<hr>
+		<br>
+
+		<address>
+		Version: 0.39.6 <br>
+		Last updated on: January 5th, 2024 <br>
+		Programed by: ECV<br>
+		Development is entirely funded by the Puerto Rico Seismic Network.
+		</address>
+
+		<script type="module" src="../scripts/main.js"></script>
+	</body>
+</html>
