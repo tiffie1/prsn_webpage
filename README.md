@@ -24,15 +24,19 @@ Once completed, the project will be considered to have reached version 1.0.0.
 Additional updates beyond 1.0.0 will likely have optimizations on a varying amount of severity.
 
 
-### Current Task
+### Todo List
 
-Organize files and prepare for further expansion.
+1. Create `.json` package for project (for dependency logging and managing meta data).
+2.  Develop file watching system (with a possible way to manage disk space usage).
+3.  Expand database to contain information for all servers to be monitored.
+4.  Add server browsing list.  
 
 
 ### Completed
 
-- Template for format.
+- Baseline template for webpage format.
 - Graph creation.
+- Optimization for single-function creation of graphs.
 
 
 ## Authors and Acknowledgements
