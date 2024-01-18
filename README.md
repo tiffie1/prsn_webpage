@@ -26,8 +26,10 @@ Additional updates beyond 1.0.0 will likely have optimizations on a varying amou
 
 ### Todo List
 
-1. Create `.json` package for project (for dependency logging and managing meta data).
+~~1. Create `.json` package for project (for dependency logging and managing meta data).~~  
+
 2.  Develop file watching system (with a possible way to manage disk space usage).
+    - a possible method to do this has been identified.
 3.  Expand database to contain information for all servers to be monitored.
 4.  Add server browsing list.  
 
