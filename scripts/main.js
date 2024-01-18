@@ -25,7 +25,6 @@ window.onload = function() {
   let intervalID;
   let test = true;
 
-
   /*  ---  TABLE CONFIGURATION  --- */
   Chart.defaults.font.family = 'monospace';
   Chart.defaults.animation = false;

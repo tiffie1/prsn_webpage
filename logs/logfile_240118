@@ -1,0 +1,20 @@
+24-01-18 22:04:40 ========== Start BNC v2.12.18 (LINUX) ==========
+24-01-18 22:04:40 Panel 'Miscellaneous' active
+24-01-18 22:04:40 Panel 'PPP' active
+24-01-18 22:04:40 AGPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 BYSP: Get data in RTCM 3.x format
+24-01-18 22:04:40 CUPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 GEOL: Get data in RTCM 3.x format
+24-01-18 22:04:40 HUPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 ICMP: Get data in RTCM 3.x format
+24-01-18 22:04:40 IGPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 ISPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 MLPR: Get data in RTCM 3.x format
+24-01-18 22:04:40 PRSN: Get data in RTCM 3.x format
+24-01-18 22:04:41 SBPR: Get data in RTCM 3.x format
+24-01-18 22:04:41 STVI: Get data in RTCM 3.x format
+24-01-18 22:04:41 Configuration read: /home/computer/.config/BKG/BNC.bnc, 12 stream(s)
+24-01-18 22:04:41 CUPR: NetQueryV2: server replied: Not Found
+24-01-18 22:04:41 CUPR: Data timeout, reconnecting
+24-01-18 22:04:41 IGPR: NetQueryV2: server replied: Not Found
+24-01-18 22:04:41 IGPR: Data timeout, reconnecting
