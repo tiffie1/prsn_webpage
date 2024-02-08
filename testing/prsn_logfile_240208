@@ -1,0 +1,67 @@
+24-02-08 00:04:57 ========== Start BNC v2.12.18 (LINUX) ==========
+24-02-08 00:04:57 Panel 'Miscellaneous' active
+24-02-08 00:04:57 Panel 'PPP' active
+24-02-08 00:04:57 AGPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 BYSP: Get data in RTCM 3.x format
+24-02-08 00:04:58 CUPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 GEOL: Get data in RTCM 3.x format
+24-02-08 00:04:58 HUPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 ICMP: Get data in RTCM 3.x format
+24-02-08 00:04:58 IGPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 ISPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 MLPR: Get data in RTCM 3.x format
+24-02-08 00:04:58 PRSN: Get data in RTCM 3.x format
+24-02-08 00:04:59 SBPR: Get data in RTCM 3.x format
+24-02-08 00:04:59 STVI: Get data in RTCM 3.x format
+24-02-08 00:04:59 Configuration read: /home/computer/.config/BKG/BNC.bnc, 12 stream(s)
+24-02-08 00:04:59 CUPR: NetQueryV2: server replied: Not Found
+24-02-08 00:04:59 CUPR: Data timeout, reconnecting
+24-02-08 00:05:00 MLPR Observations: Mean latency 0.44 sec, min 0.44, max 0.44, rms 0.44, 1 epochs
+24-02-08 00:05:00 BYSP Observations: Mean latency 0.43 sec, min 0.43, max 0.43, rms 0.43, 1 epochs
+24-02-08 00:05:00 HUPR Observations: Mean latency 1.59 sec, min 1.59, max 1.59, rms 1.59, 1 epochs
+24-02-08 00:05:01 AGPR Observations: Mean latency 2.18 sec, min 2.14, max 2.22, rms 2.18, 2 epochs
+fgds
+dsffdsfsdds24-02-08 00:07:00 ========== Start BNC v2.12.18 (LINUX) ==========
+24-02-08 00:07:00 Panel 'Miscellaneous' active
+24-02-08 00:07:00 Panel 'PPP' active
+24-02-08 00:07:00 AGPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 BYSP: Get data in RTCM 3.x format
+24-02-08 00:07:00 CUPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 GEOL: Get data in RTCM 3.x format
+24-02-08 00:07:00 HUPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 ICMP: Get data in RTCM 3.x format
+24-02-08 00:07:00 IGPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 ISPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 MLPR: Get data in RTCM 3.x format
+24-02-08 00:07:00 PRSN: Get data in RTCM 3.x format
+24-02-08 00:07:01 SBPR: Get data in RTCM 3.x format
+24-02-08 00:07:01 STVI: Get data in RTCM 3.x format
+24-02-08 00:07:01 Configuration read: /home/computer/.config/BKG/BNC.bnc, 12 stream(s)
+24-02-08 00:07:01 CUPR: NetQueryV2: server replied: Not Found
+24-02-08 00:07:01 CUPR: Data timeout, reconnecting
+24-02-08 00:07:12 CUPR: NetQueryV2: server replied: Not Found
+24-02-08 00:07:12 CUPR: Data timeout, reconnecting
+24-02-08 00:07:24 CUPR: NetQueryV2: server replied: Not Found
+24-02-08 00:07:24 CUPR: Data timeout, reconnecting
+24-02-08 00:07:38 ========== Start BNC v2.12.18 (LINUX) ==========
+24-02-08 00:07:38 Panel 'Miscellaneous' active
+24-02-08 00:07:38 Panel 'PPP' active
+24-02-08 00:07:38 AGPR: Get data in RTCM 3.x format
+24-02-08 00:07:38 BYSP: Get data in RTCM 3.x format
+24-02-08 00:07:38 GEOL: Get data in RTCM 3.x format
+24-02-08 00:07:38 HUPR: Get data in RTCM 3.x format
+24-02-08 00:07:39 ICMP: Get data in RTCM 3.x format
+24-02-08 00:07:39 IGPR: Get data in RTCM 3.x format
+24-02-08 00:07:39 ISPR: Get data in RTCM 3.x format
+24-02-08 00:07:39 MLPR: Get data in RTCM 3.x format
+24-02-08 00:07:39 PRSN: Get data in RTCM 3.x format
+24-02-08 00:07:39 SBPR: Get data in RTCM 3.x format
+24-02-08 00:07:39 STVI: Get data in RTCM 3.x format
+24-02-08 00:07:39 Configuration read: /home/computer/.config/BKG/BNC.bnc, 11 stream(s)
+24-02-08 00:08:01 MLPR Observations: Mean latency 0.65 sec, min 0.27, max 1.12, rms 0.68, 20 epochs
+24-02-08 00:08:01 SBPR Observations: Mean latency 0.69 sec, min 0.28, max 1.73, rms 0.76, 20 epochs
+24-02-08 00:08:01 HUPR Observations: Mean latency 0.79 sec, min 0.27, max 2.20, rms 0.97, 20 epochs
+24-02-08 00:08:01 PRSN Observations: Mean latency 0.97 sec, min 0.34, max 2.12, rms 1.08, 20 epochs
+24-02-08 00:08:01 IGPR Observations: Mean latency 1.13 sec, min 0.29, max 2.49, rms 1.30, 20 epochs
+24-02-08 00:08:01 AGPR Observations: Mean latency 2.27 sec, min 1.28, max 3.49, rms 2.34, 21 epochs
+24-02-08 00:08:02 BYSP Observations: Mean latency 0.78 sec, min 0.40, max 1.39, rms 0.83, 20 epochs

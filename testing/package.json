@@ -2,7 +2,7 @@
   "name": "prsn_webpage_testing",
   "version": "0.0.0",
   "description": "Testing grounds for features in the prsn_webpage project.",
-  "main": "main.js",
+  "main": "chokidar.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
