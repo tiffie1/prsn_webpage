@@ -1,6 +1,8 @@
 # Visualized Latency
 Version 0.37.4.6
 
+# ANNOUNCMENT
+Development of this project will be put on *hold* as the PRSN has put priority on another project. This message will remain indefinitely unless instructed otherwise by the PRSN.
 
 ## Description
 
