@@ -1,3 +1,9 @@
+# IMPORTANT  
+This project is, as of September, 2024, officially and totally cancelled. This entails no further development on any and all aspects of the project. For archival's sake, the worked-on materials will be kept as is indefinitely. Although unlikely, this may be subject to change, which will be explicitely explained in its due time.
+
+---
+---
+
 # Visualized Latency
 Version 0.37.4.6
 
